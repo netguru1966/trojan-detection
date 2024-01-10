@@ -1,4 +1,0 @@
-pip
-matplotlib
-pandas
-scikit-learn
